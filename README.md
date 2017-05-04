@@ -20,6 +20,7 @@ Change your GOPATH environment variable to your workspace root
 `export GOPATH=<workspace root>`
 
 `cd src/github.com/titanandrews/wr-event-chest`
+
 `make`
 
 The executable will be in the `bin` folder
