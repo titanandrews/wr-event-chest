@@ -28,4 +28,4 @@ The executable will be in the `bin` folder
 Have fun!
 
 
-[[https://github.com/titanandrews/wr-event-chest/blob/master/img/screen-shot.png]]
+![alt text](https://github.com/titanandrews/wr-event-chest/blob/master/img/screen-shot.png)
