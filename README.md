@@ -8,3 +8,20 @@ The results you get in the simulator game cannot be guaranteed to be what you ma
 The drop rates came from an online forum, and there is no way of knowing if they are accurate, as this information is closed source and owned by Pixonic.
 
 This program is **not** affiliated with Pixonic in any way, shape, or form.
+
+To build:
+
+Clone the repo
+
+`git clone git@github.com:titanandrews/wr-event-chest.git`
+
+Change your GOPATH environment variable to your workspace root
+
+`export GOPATH=<workspace root>`
+
+`cd src/github.com/titanandrews/wr-event-chest`
+`make`
+
+The executable will be in the `bin` folder
+
+Have fun!
