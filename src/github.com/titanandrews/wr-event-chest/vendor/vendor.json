@@ -1,0 +1,25 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "1xTJpPUB4IgQDek5aFmg9/fMlVs=",
+			"path": "github.com/abiosoft/ishell",
+			"revision": "2222f789bcc250e96208f0cd054733eafb75d6ec",
+			"revisionTime": "2017-04-07T20:41:17Z"
+		},
+		{
+			"checksumSHA1": "yLQg8NdQKYqqytcvKA/0EBkOIkw=",
+			"path": "github.com/flynn-archive/go-shlex",
+			"revision": "3f9db97f856818214da2e1057f8ad84803971cff",
+			"revisionTime": "2015-05-15T14:53:56Z"
+		},
+		{
+			"checksumSHA1": "VAPpB3iZ9bfjWqNDoX7qXqfRcQU=",
+			"path": "gopkg.in/readline.v1",
+			"revision": "62c6fe6193755f722b8b8788aa7357be55a50ff1",
+			"revisionTime": "2016-07-26T13:51:17Z"
+		}
+	],
+	"rootPath": "github.com/titanandrews/wr-event-chest"
+}
