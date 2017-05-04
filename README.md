@@ -5,7 +5,7 @@ This is a War Robots simulator CLI (command line interface) program that simulat
 **Disclaimer:** It is just for fun, and in no way intended to be accurate.
 The results you get in the simulator game cannot be guaranteed to be the same as in the real game.
 
-The drop rates came from an online forum, and there is no way of knowing if they are accurate, as this information is closed source and owned by Pixonic.
+The drop rates came from an online forum, and there is no way of knowing if they are accurate, as this information is proprietary and owned by Pixonic.
 
 This program is **not** affiliated with Pixonic in any way, shape, or form.
 
